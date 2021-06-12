@@ -39,7 +39,7 @@ I relied on WebAIM's [Web Accessibility Evaluation Tool (WAVE)](https://wave.web
 - Some of my alt-text descriptions are too long! :laughing: I'll use this example to highlight some of the super helpful features of the WAVE tool. Below is a screenshot of the tool when I select the alert next to the super long alt-text description for a hex logo :woman_facepalming:
 
     <details><summary>WAVE tool reference and code accompanying an alert</summary>
-    ```{r, fig.cap="", fig.alt="Reference pane of the tool elaborates on what the alert means, why it matters, how to fix it, a note on the tool's algorithm, and a link to the WCAG standards and guidelines. Code section is expanded along the bottom and highlights exactly what part of the HTML code the alert is refering to."}
+    ```{r, fig.cap="NULL", fig.alt="Reference pane of the tool elaborates on what the alert means, why it matters, how to fix it, a note on the tool's algorithm, and a link to the WCAG standards and guidelines. Code section is expanded along the bottom and highlights exactly what part of the HTML code the alert is refering to."}
     knitr::include_graphics("img/wave-ex-alt-text.png")
     ```
     </details>
