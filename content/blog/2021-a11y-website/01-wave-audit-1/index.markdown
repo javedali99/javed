@@ -37,10 +37,8 @@ I relied on WebAIM's [Web Accessibility Evaluation Tool (WAVE)](https://wave.web
 - Some of my alt-text descriptions are too long! :laughing: I'll use this example to highlight some of the super helpful features of the WAVE tool. Below is a screenshot of the tool when I select the alert next to the super long alt-text description for a hex logo :woman_facepalming:
 
     <details><summary>WAVE tool reference and code accompanying an alert</summary>
-    <div class="figure" style="text-align: center">
-    <img src="img/wave-ex-alt-text.png" alt="Reference pane of the tool elaborates on what the alert means, why it matters, how to fix it, a note on the tool's algorithm, and a link to the WCAG standards and guidelines. Code section is expanded along the bottom and highlights exactly what part of the HTML code the alert is refering to."  />
-    <p class="caption">(\#fig:unnamed-chunk-3)NULL</p>
-    </div>
+    
+    <img src="img/wave-ex-alt-text.png" alt="Reference pane of the tool elaborates on what the alert means, why it matters, how to fix it, a note on the tool's algorithm, and a link to the WCAG standards and guidelines. Code section is expanded along the bottom and highlights exactly what part of the HTML code the alert is refering to." style="display: block; margin: auto;" width="1898">
     </details>
 
 - My blog and talk listings have redundant links because these layouts have thumbnails enabled and both the thumbnail and the title of the post are active links
@@ -76,8 +74,8 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-home.png" alt="There is an error symbol next to the decorative image on the home page. There are also alert symbols for links in the navigation bar and footer"  />
-<p class="caption">Figure 2: Audit for my home page</p>
+<img src="img/wave-home.png" alt="There is an error symbol next to the decorative image on the home page. There are also alert symbols for links in the navigation bar and footer" width="950" />
+<p class="caption">Figure 1: Audit for my home page</p>
 </div>
 
 
@@ -98,19 +96,19 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-about-header.png" alt="About page showing an alert in my blurb"  />
-<p class="caption">Figure 3: Audit for my About page header</p>
+<img src="img/wave-about-header.png" alt="About page showing an alert in my blurb" width="1898" />
+<p class="caption">Figure 2: Audit for my About page header</p>
 </div>
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-about-main-top.png" alt="An alert is shown next to some heading items, and a link. An error is shown next to a thumbnail image for the featured blog post"  />
-<p class="caption">Figure 4: Audit for the main section of my About page</p>
+<img src="img/wave-about-main-top.png" alt="An alert is shown next to some heading items, and a link. An error is shown next to a thumbnail image for the featured blog post" width="1898" />
+<p class="caption">Figure 3: Audit for the main section of my About page</p>
 </div>
 
 <details><summary>Full page screenshot</summary>
 <div class="figure" style="text-align: center">
-<img src="img/wave-about.png" alt="Alerts are shown for links in the navigation bar and footer, for some heading items, and for a few links throughout the page"  />
-<p class="caption">Figure 5: Audit for my About page in full page view</p>
+<img src="img/wave-about.png" alt="Alerts are shown for links in the navigation bar and footer, for some heading items, and for a few links throughout the page" width="950" />
+<p class="caption">Figure 4: Audit for my About page in full page view</p>
 </div>
 </details>
 
@@ -128,8 +126,8 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-blog.png" alt="Alerts are shown for the navigation bar and footer, and for blog post links. Errors shown for the decorative image for the page and for the blog post thumbnails"  />
-<p class="caption">Figure 6: Audit for my Blog listing page in full page view</p>
+<img src="img/wave-blog.png" alt="Alerts are shown for the navigation bar and footer, and for blog post links. Errors shown for the decorative image for the page and for the blog post thumbnails" width="950" />
+<p class="caption">Figure 5: Audit for my Blog listing page in full page view</p>
 </div>
 
 ### Blog example
@@ -150,8 +148,8 @@ Audit results:
   - 6 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-blog-hha-top.png" alt="Alerts shown for links in the navigation bar and for a heading item. Errors shown for the blog decorative image and for a link symbol next to a header."  />
-<p class="caption">Figure 7: Audit for my Hello Hugo Apéro blog post</p>
+<img src="img/wave-blog-hha-top.png" alt="Alerts shown for links in the navigation bar and for a heading item. Errors shown for the blog decorative image and for a link symbol next to a header." width="1898" />
+<p class="caption">Figure 6: Audit for my Hello Hugo Apéro blog post</p>
 </div>
 
 ## Talk page
@@ -170,14 +168,14 @@ Audit results:
   - 1 &#120; YouTube video
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-talks-top.png" alt="Alerts displayed for a heading item and the primary link to a talk. An error is displayed for the talk thumbnail."  />
-<p class="caption">Figure 8: Audit for my Talk listing page</p>
+<img src="img/wave-talks-top.png" alt="Alerts displayed for a heading item and the primary link to a talk. An error is displayed for the talk thumbnail." width="1898" />
+<p class="caption">Figure 7: Audit for my Talk listing page</p>
 </div>
 
 <details><summary>Full page screenshot</summary>
 <div class="figure" style="text-align: center">
-<img src="img/wave-talks.png" alt="Alerts displayed in the navigation bar and footer, some heading items, all primary talk links, and a YouTube button link. Errors displayed for all talk thumbnail images."  />
-<p class="caption">Figure 9: Audit for my About page header in full page view</p>
+<img src="img/wave-talks.png" alt="Alerts displayed in the navigation bar and footer, some heading items, all primary talk links, and a YouTube button link. Errors displayed for all talk thumbnail images." width="950" />
+<p class="caption">Figure 8: Audit for my About page header in full page view</p>
 </div>
 </details>
 
@@ -194,8 +192,8 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-talks-csvconf.png" alt="Alerts displayed for the navigation bar and footer, as well as the talk summary. No errors are displayed."  />
-<p class="caption">Figure 10: Audit for my CSV Conf talk post in full page view</p>
+<img src="img/wave-talks-csvconf.png" alt="Alerts displayed for the navigation bar and footer, as well as the talk summary. No errors are displayed." width="950" />
+<p class="caption">Figure 9: Audit for my CSV Conf talk post in full page view</p>
 </div>
 
 ## Publication page
@@ -209,15 +207,15 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-pubs-top.png" alt="No errors or alerts displayed for this view"  />
-<p class="caption">Figure 11: Audit for my Publication listing page</p>
+<img src="img/wave-pubs-top.png" alt="No errors or alerts displayed for this view" width="1898" />
+<p class="caption">Figure 10: Audit for my Publication listing page</p>
 </div>
 
 <details><summary>Full page screenshot</summary>
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-pubs.png" alt="Alerts displayed for the navigation bar and footer"  />
-<p class="caption">Figure 12: Audit for my Publication listing page in full page view</p>
+<img src="img/wave-pubs.png" alt="Alerts displayed for the navigation bar and footer" width="950" />
+<p class="caption">Figure 11: Audit for my Publication listing page in full page view</p>
 </div>
 
 </details>
@@ -235,8 +233,8 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-pubs-geo.png" alt="Alerts displayed for the header bar and footer and for the publication summary"  />
-<p class="caption">Figure 13: Audit for my geospatial analysis publication in full page view</p>
+<img src="img/wave-pubs-geo.png" alt="Alerts displayed for the header bar and footer and for the publication summary" width="950" />
+<p class="caption">Figure 12: Audit for my geospatial analysis publication in full page view</p>
 </div>
 
 ## Project page
@@ -251,8 +249,8 @@ Audit results:
   - 5 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-projects-top.png" alt="Errors displayed next to each project thumbnail image"  />
-<p class="caption">Figure 14: Audit for my Project listing page</p>
+<img src="img/wave-projects-top.png" alt="Errors displayed next to each project thumbnail image" width="1898" />
+<p class="caption">Figure 13: Audit for my Project listing page</p>
 </div>
 
 ### Project example
@@ -269,13 +267,13 @@ Audit results:
   - 6 &#120; Redundant title text
 
 <div class="figure" style="text-align: center">
-<img src="img/wave-projects-ttat-top.png" alt="Alert displayed in the project summary and next to an image alt-text. Error dislayed next to a link symbol accompanying a heading."  />
-<p class="caption">Figure 15: Audit for my TidyTuesdayAltText project post</p>
+<img src="img/wave-projects-ttat-top.png" alt="Alert displayed in the project summary and next to an image alt-text. Error dislayed next to a link symbol accompanying a heading." width="1898" />
+<p class="caption">Figure 14: Audit for my TidyTuesdayAltText project post</p>
 </div>
 
 <details><summary>Full page screenshot</summary>
 <div class="figure" style="text-align: center">
-<img src="img/wave-projects-ttat.png" alt="Alerts shown in the navigation bar and footer, project summary, and image alt-text. Errors shown next to link symbols accompanying headings."  />
-<p class="caption">Figure 16: Audit for my TidyTuesdayAltText project post in full page view</p>
+<img src="img/wave-projects-ttat.png" alt="Alerts shown in the navigation bar and footer, project summary, and image alt-text. Errors shown next to link symbols accompanying headings." width="950" />
+<p class="caption">Figure 15: Audit for my TidyTuesdayAltText project post in full page view</p>
 </div>
 </details>
