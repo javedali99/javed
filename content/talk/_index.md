@@ -2,7 +2,7 @@
 title: Talks
 description: |
   This is a home for invited talks and workshops, each linked with accompanying materials.
-author: "Silvia Canelón"
+author: "Javed Ali"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: true
@@ -20,14 +20,14 @@ sidebar:
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
-  author: "The R Markdown Team @RStudio"
+  author: "Javed Ali"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside talk/
 cascade:
-  author: "Silvia Canelón"
+  author: "Javed Ali"
   show_author_byline: true
   show_post_date: true
   show_post_time: true

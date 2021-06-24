@@ -3,18 +3,24 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hello, I'm happy you're here.
+  Hello!
 ---
 
 <!-- this is a subheadline -->
 Thanks for stopping by!
 
-I'm a postdoctoral research scientist in the [Department of Biostatistics, Epidemiology, and Informatics](https://www.dbei.med.upenn.edu/) at the University of Pennsylvania Perelman School of Medicine. My research interests include applications of biomedical informatics in the public and population health fields. I work in the [Boland Lab](https://www.med.upenn.edu/bolandlab/) on projects that develop novel data mining methods to extract pregnancy-related information from Electronic Health Records (EHR) and study the relationship between environment and disease. Learn more about my research interests in [publications](/publication).
+I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the **Coastal Risks and Engineering Lab** at the [University of Central Florida (UCF)](https://www.ucf.edu/). I’ve been working on a **National Academy of Sciences (NAS)** funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risk including their possible spatial and temporal interactions and dynamic vulnerability and exposure. Before joining the UCF, I was working at the [Centre National de la Recherche Scientifique (CNRS)](http://www.cnrs.fr/) in France as a MOPGA Researcher. My work at CNRS focused on coupled modelling of flash floods and population exposure and vulnerability dynamics for forecasting the potential socio-economic impacts of flash floods in South France.
 
+
+<!--
 <i class="fas fa-certificate pr2"></i>[Certificate in Biomedical Informatics](https://www.med.upenn.edu/mbmi/certificate.html)  &#8729;  University of Pennsylvania  &#8729;  2019
+-->
 
-<i class="fas fa-graduation-cap pr2"></i>Ph.D. in Biomedical Engineering  &#8729;
- Purdue University  &#8729;  2018
+<i class="fas fa-graduation-cap pr2"></i>Ph.D. in Civil Engineering  &#8729;
+ University of Central Florida  &#8729;  2020 - Present
 
-<i class="fas fa-graduation-cap pr2"></i>B.S. in Biomedical Engineering  &#8729;
-    University of Minnesota  &#8729;  2012
+<i class="fas fa-graduation-cap pr2"></i>M.S. in Water Science & Engineering  &#8729;
+    UNESCO-IHE, Netherlands  &#8729;  2018
+
+<i class="fas fa-graduation-cap pr2"></i>B.S. in Agricultural Engineering  &#8729;
+    G.B. Pant University of Agri. & Tech.  &#8729;  2015

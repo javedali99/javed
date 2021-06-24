@@ -1,9 +1,9 @@
-baseURL = "https://silvia.rbind.io/"
+baseURL = ""
 theme = "hugo-apero"
 languageCode = "en"
 #title = "Hugo Apéro"
-title = "Silvia Canelón"
-author = "Silvia Canelón"
+title = "Javed Ali"
+author = "Javed Ali"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -34,10 +34,10 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
 #pygmentsCodeFences = true  # enable GitHub style code snippets
 
 [params]
-  orgName = "Silvia Canelón"
+  orgName = "Javed Ali"
   orgLocal = ""
   #description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  description = "Personal website of Silvia Canelón"
+  description = "Personal website of Javed Ali"
   #favicon = "/img/favicon.ico"
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
@@ -53,7 +53,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   #sharing_image = "/img/papillons.jpg"
   sharing_image = "/img/LakePink_Social.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "spcanelon"
+  twitter = "javedali99"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -83,7 +83,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "spcanelon/silvia"
+    repo_name = "javedali99/javed"
     issue_term = "title" # url, pathname, or title
     theme = "boxy-light" # TODO: change to "preferred-color-scheme" when you enable dark mode toggle
     label = "comments :crystal_ball:"
@@ -95,18 +95,18 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   # Icon pack "ai" includes academic icons, see: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-      icon      = "universal-access" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/accessibility/"
+  #[[params.social]]
+  #    icon      = "universal-access" # icon name without the 'fa-'
+  #    icon_pack = "fas"
+  #    url       = "/accessibility/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/spcanelon"
+      url       = "https://twitter.com/javedali99"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/spcanelon/silvia"
+      url       = "https://github.com/javedali99"
   #[[params.social]]
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
@@ -121,17 +121,17 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   #    icon_pack = "ai"
   #    url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0003-1709-1394"
+      url       = "https://www.researchgate.net/profile/Javed_Ali5"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao"
+      url       = "https://scholar.google.com/citations?user=HUQ0pVsAAAAJ&hl=en"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://linkedin.com/in/spcanelon"
+      url       = "https://linkedin.com/in/javedali18"
 #  [[params.social]]
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
@@ -151,7 +151,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Meeting People Where They R"
+    title = "Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
@@ -163,7 +163,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     name = "Publications"
     title = "Research Publications"
     url = "/publication/"
-    weight = 4
+    weight = 4 
  [[menu.header]]
    name = "Projects"
    title = "Project Portfolio"
@@ -190,16 +190,16 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     title = "Contact Form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Accessibility"
-    title = "Accessibility Commitment"
-    url = "/accessibility/"
-    weight = 1
-  [[menu.footer]]
-    name = "RSS"
-    title = "Subscribe via RSS"
-    url = "/blog/index.xml/"
-    weight = 5
+  #[[menu.footer]]
+  #  name = "Accessibility"
+  #  title = "Accessibility Commitment"
+  #  url = "/accessibility/"
+  #  weight = 1
+  #[[menu.footer]]
+  #  name = "RSS"
+  #  title = "Subscribe via RSS"
+  #  url = "/blog/index.xml/"
+  #  weight = 5
   #[[menu.footer]]
   #  name = "Contributors"
   #  title = "Contributors"

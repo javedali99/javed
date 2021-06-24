@@ -1,10 +1,10 @@
 ---
-title: "Silvia Canelón"
-subtitle: "Postdoctoral Research Scientist at the University of Pennsylvania"
-description: "I am a researcher, community organizer, and R educator. My research leverages electronic health record data to study pregnancy-related outcomes, and  my organizing values data literacy as a way to build power and effect change."
+title: "Javed Ali"
+subtitle: "Doctoral Researcher at the University of Central Florida"
+description: "I am a Water Resources Engineer and Multi-hazards Researcher. My work involves multi-hazards risk analysis and studying hydrometeorological extreme events and their interrelationships using machine learning and statistical methods."
 images:
-  - img/Lake_Pink_lowExp_wide.jpg
-image_alt_text: "Photo of a lake with water reflecting a bright blue sky and nestled among lush trees"
+  - img/climate_change_header.jpg
+image_alt_text: "Extreme events"
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config

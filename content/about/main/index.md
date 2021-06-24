@@ -6,13 +6,14 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  I've been enjoying using [R](https://www.r-project.org/about.html) to optimize my research workflow and have noticed it making guest appearances elsewhere in my life. I'm certified as an [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/canelon+silvia/) and am passionate about R education as a way to build power in communities. Keep up with my R tinkering in my [blog](/blog) and teaching in [talks](/talk).
-  
-  <i class="fas fa-certificate pr2"></i>[Tidyverse Instructor Certification](https://education.rstudio.com/trainers/people/canelon+silvia/)  &#8729;  RStudio, PBC &#8729;  2020
+  I've been enjoying using `Python` to optimize my research workflow and have noticed it making guest appearances elsewhere in my life. 
+
+
 
 show_outro: true
 outro: |
-  <i class="fas fa-lightbulb pr2"></i>Biomedical engineer turned informaticist,<br>curious about all intersections of data and society.
+  <i class="fas fa-lightbulb pr2"></i>Water Resources Engineer, curious about all intersections of water resources, weather & climatic extreme events and society.
+
 ---
 
 ** index doesn't contain a body, just front matter above.
