@@ -111,10 +111,10 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
   #    url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  #[[params.social]]
-  #    icon      = "instagram" # icon name without the 'fa-'
-  #    icon_pack = "fab"
-  #    url       = "https://www.instagram.com/explore/tags/apero/"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0002-6203-1190"
 
   #[[params.social]]
   #    icon      = "impactstory" # icon name without the 'fa-'
@@ -156,7 +156,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     weight = 2
   [[menu.header]]
     name = "Talks"
-    title = "Invited Talks"
+    title = "Talks"
     url = "/talk/"
     weight = 3
   [[menu.header]]

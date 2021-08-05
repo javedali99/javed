@@ -3,10 +3,10 @@ title: "Javed Ali"
 subtitle: "Doctoral Researcher at the University of Central Florida"
 description: "I am a Water Resources Engineer and Multi-hazards Researcher. My work involves multi-hazards risk analysis and studying hydrometeorological extreme events and their interrelationships using machine learning and statistical methods."
 images:
-  - img/climate_change_header.jpg
-image_alt_text: "Extreme events"
+  - img/javy-austria.jpeg
+image_alt_text: ""
 image_left: false
-text_align_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
